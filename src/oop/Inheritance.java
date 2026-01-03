@@ -1,5 +1,5 @@
 
-package oop_basics;
+package oop;
 
 import java.util.Scanner;
 
